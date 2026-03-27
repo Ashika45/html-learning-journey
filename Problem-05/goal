@@ -1,0 +1,9 @@
+HTML Table with Student Grades
+Description
+This project helps you learn how to structure tabular data using HTML <table> elements. You’ll build a simple student grades report with rows and columns.
+
+Features
+Table header row
+Student names and subjects
+Grades for each student
+Basic table layout using <table>, <tr>, <th>, and <td>
