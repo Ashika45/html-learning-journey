@@ -1,0 +1,9 @@
+Newsletter Signup Form
+Description
+This project focuses on creating a simple email subscription form for a newsletter. It’s a great exercise in collecting user input and structuring small, focused forms.
+
+Features
+Email input field
+Name input (optional)
+Submit button
+Placeholder for confirmation or success message (to enhance later with JavaScript)
