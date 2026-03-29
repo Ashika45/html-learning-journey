@@ -1,0 +1,10 @@
+Survey or Feedback Form
+Description
+This project helps you learn how to build HTML forms to collect user input. You'll create a simple survey or feedback form with different types of input fields.
+
+Features
+Text input fields (name, email)
+Radio buttons and checkboxes
+Dropdown menu
+Textarea for open feedback
+Submit button
