@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn HTML Basics</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            max-width: 800px; /* Slightly wider for the video */
+            margin: auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+            height: 0;
+            overflow: hidden;
+            margin-top: 20px;
+            border: 2px solid #ddd;
+        }
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Learn HTML Basics</h1>
+    
+    <p>Watch this video to learn the basics of HTML:</p>
+    <ul>
+        <li>What is HTML?</li>
+        <li>Basic structure of an HTML document</li>
+        <li>Common HTML tags and their usage</li>
+    </ul>
+
+    <div class="video-container">
+        <iframe 
+            src="https://www.youtube.com/embed/FYErehuSuuw" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            referrerpolicy="strict-origin-when-cross-origin" 
+            allowfullscreen>
+        </iframe>
+    </div>
+</body>
+</html>
